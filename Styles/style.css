@@ -1,0 +1,45 @@
+/* =========== Goggle Fonts =============== */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@500;600;700&family=Roboto:wght@400;500;700&display=swap');
+
+/* =========== Common Selector =============== */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a.nav-link {
+  color: #494646!important;
+  font-weight: 500;
+}
+.ImageBack{
+  background-color: #f1f1f1;
+}
+.FontMontserrat{
+  font-family: 'Montserrat', sans-serif;
+}
+.FontBabes{
+  font-family: 'Bebas Neue', cursive;
+}
+.FontRoboto{
+  font-family: 'Roboto', sans-serif;
+}
+.BannerBg{
+  background-color:#FFF9F4
+  ;
+}
+.PrimaryColor{
+  color: #363958;
+}
+.fotterBg{
+background-color: #363958;
+}
+
+.SecondaryColor{
+ color: #FA804C;
+}
+
+.ButtonGradient{
+  background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+  border-radius: 10px;
+}
+
